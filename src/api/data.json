@@ -1,0 +1,19 @@
+[
+    {
+      "name": "Stranger Things",
+      "rating": "8.9",
+      "cast": "Millie Bobby Brown, Finn Wolfhard",
+      "genre": "Sci-Fi",
+      "img_url": "https://example.com/image.jpg",
+      "watch_url": "https://netflix.com/strangerthings"
+    },
+    {
+      "name": "Money Heist",
+      "rating": "8.3",
+      "cast": "Álvaro Morte, Úrsula Corberó",
+      "genre": "Crime",
+      "img_url": "https://example.com/image2.jpg",
+      "watch_url": "https://netflix.com/moneyheist"
+    }
+  ]
+  
